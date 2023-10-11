@@ -38,16 +38,7 @@
             "pages": [
               "introduction"
             ]
-          },
-          {
-            "group": "Guides",
-            "pages": [
-              "guides/intro-to-the-builder",
-              "guides/designer-card",
-              "guides/options-card",
-              "guides/working-with-logic"
-            ]
-          }
+        }
     ],
     "footerSocials":
       {
