@@ -1,0 +1,56 @@
+{
+    "name": "Savvy",
+    "logo": {
+      "light": "/logo/light.png",
+      "dark": "/logo/dark.png"
+    },
+    "favicon": "/favicon.png",
+    "colors": {
+      "primary": "#6254F3",
+      "light": "#8175FF",
+      "dark": "#6254F3"
+    },
+    "topbarCtaButton": {
+      "name": "Build on Embeddables",
+      "url": "https://www.embeddables.com/"
+    },
+    "topbarLinks": [
+      {
+        "name": "Login",
+        "url": "https://beta.trysavvy.com/"
+      }
+    ],
+    "anchors": [
+      {
+        "name": "Integrations",
+        "icon": "gear",
+        "url": "https://trysavvy.com/#integration"
+      },
+      {
+        "name": "Talk to an Expert",
+        "icon": "headset",
+        "url": "https://trysavvy.com/#integration"
+      }
+    ],
+    "navigation": [
+        {
+            "group": "Getting Started with Savvy",
+            "pages": [
+              "introduction"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/intro-to-the-builder",
+              "guides/designer-card",
+              "guides/options-card",
+              "guides/working-with-logic"
+            ]
+          }
+    ],
+    "footerSocials":
+      {
+          "linkedin": "https://www.linkedin.com/company/embeddables/"
+      }
+  }
